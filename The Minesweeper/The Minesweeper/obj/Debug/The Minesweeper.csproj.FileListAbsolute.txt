@@ -1,0 +1,9 @@
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The Minesweeper.csproj.AssemblyReference.cache
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The_Minesweeper.Properties.Resources.resources
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The Minesweeper.csproj.GenerateResource.cache
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The Minesweeper.csproj.CoreCompileInputs.cache
+D:\Games\The Minesweeper\The Minesweeper\bin\Debug\The Minesweeper.exe.config
+D:\Games\The Minesweeper\The Minesweeper\bin\Debug\The Minesweeper.exe
+D:\Games\The Minesweeper\The Minesweeper\bin\Debug\The Minesweeper.pdb
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The Minesweeper.exe
+D:\Games\The Minesweeper\The Minesweeper\obj\Debug\The Minesweeper.pdb
